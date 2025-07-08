@@ -82,7 +82,7 @@ We developed a machine learning pipeline using **Random Forest Regressor** to pr
 ## 📊 Results
 
 - Trained model achieved strong predictive performance:
-  - **R² Score**: ~0.92  
+  - **R² Score**: ~0.98 
   - **MSE / RMSE**: Evaluated using `sklearn.metrics`
 - Visualized upward trends in developing countries and declining trends in developed countries
 
